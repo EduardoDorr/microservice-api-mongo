@@ -19,73 +19,43 @@ namespace Catalog.API.Data
             {
                 new Product()
                 {
-                    Name = "IPhone X",
-                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Phasellus vel tempor massa. Ut est est, sodales accumsan laoreet quis, vulputate nec turpis." +
-                    "Morbi nunc risus, lobortis rhoncus tellus sit amet, pulvinar ultricies purus. In eget est lectus." +
-                    "Cras sollicitudin, nulla non sollicitudin varius, turpis odio laoreet nunc, a placerat lorem urna semper enim." +
-                    "Proin at lectus ac ligula interdum faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Praesent a libero ullamcorper, pulvinar mi sit amet, semper arcu. Fusce lacinia nec velit in hendrerit." +
-                    "Integer volutpat scelerisque nisi. Nulla facilisi.",
-                    Image = "product-1.png",
-                    Price = 950.00M,
-                    Category = "Smartphone",
+                    Name = "iPhone 9",
+                    Description = "An apple mobile which is nothing like apple",
+                    Image = "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+                    Price = 549.00M,
+                    Category = "smartphones",
                 },
                 new Product()
                 {
-                    Name = "IPhone X Pro",
-                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Phasellus vel tempor massa. Ut est est, sodales accumsan laoreet quis, vulputate nec turpis." +
-                    "Morbi nunc risus, lobortis rhoncus tellus sit amet, pulvinar ultricies purus. In eget est lectus." +
-                    "Cras sollicitudin, nulla non sollicitudin varius, turpis odio laoreet nunc, a placerat lorem urna semper enim." +
-                    "Proin at lectus ac ligula interdum faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Praesent a libero ullamcorper, pulvinar mi sit amet, semper arcu. Fusce lacinia nec velit in hendrerit." +
-                    "Integer volutpat scelerisque nisi. Nulla facilisi. ",
-                    Image = "product-2.png",
-                    Price = 1150.00M,
-                    Category = "Smartphone",
+                    Name = "iPhone X",
+                    Description = "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+                    Image = "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+                    Price = 899.00M,
+                    Category = "smartphones",
                 },
                 new Product()
                 {
-                    Name = "Samsung 10",
-                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Phasellus vel tempor massa. Ut est est, sodales accumsan laoreet quis, vulputate nec turpis." +
-                    "Morbi nunc risus, lobortis rhoncus tellus sit amet, pulvinar ultricies purus. In eget est lectus." +
-                    "Cras sollicitudin, nulla non sollicitudin varius, turpis odio laoreet nunc, a placerat lorem urna semper enim." +
-                    "Proin at lectus ac ligula interdum faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Praesent a libero ullamcorper, pulvinar mi sit amet, semper arcu. Fusce lacinia nec velit in hendrerit." +
-                    "Integer volutpat scelerisque nisi. Nulla facilisi. ",
-                    Image = "product-3.png",
-                    Price = 650.00M,
-                    Category = "Smartphone",
+                    Name = "Samsung Universe 9",
+                    Description = "Samsung's new variant which goes beyond Galaxy to the Universe",
+                    Image = "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+                    Price = 1249.00M,
+                    Category = "smartphones",
                 },
                 new Product()
                 {
-                    Name = "Samsung 20",
-                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Phasellus vel tempor massa. Ut est est, sodales accumsan laoreet quis, vulputate nec turpis." +
-                    "Morbi nunc risus, lobortis rhoncus tellus sit amet, pulvinar ultricies purus. In eget est lectus." +
-                    "Cras sollicitudin, nulla non sollicitudin varius, turpis odio laoreet nunc, a placerat lorem urna semper enim." +
-                    "Proin at lectus ac ligula interdum faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Praesent a libero ullamcorper, pulvinar mi sit amet, semper arcu. Fusce lacinia nec velit in hendrerit." +
-                    "Integer volutpat scelerisque nisi. Nulla facilisi. ",
-                    Image = "product-4.png",
-                    Price = 900.00M,
-                    Category = "Smartphone",
+                    Name = "OPPOF19",
+                    Description = "OPPO F19 is officially announced on April 2021.",
+                    Image = "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+                    Price = 280.00M,
+                    Category = "smartphones",
                 },
                 new Product()
                 {
-                    Name = "Xiaomi Poco",
-                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Phasellus vel tempor massa. Ut est est, sodales accumsan laoreet quis, vulputate nec turpis." +
-                    "Morbi nunc risus, lobortis rhoncus tellus sit amet, pulvinar ultricies purus. In eget est lectus." +
-                    "Cras sollicitudin, nulla non sollicitudin varius, turpis odio laoreet nunc, a placerat lorem urna semper enim." +
-                    "Proin at lectus ac ligula interdum faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit." +
-                    "Praesent a libero ullamcorper, pulvinar mi sit amet, semper arcu. Fusce lacinia nec velit in hendrerit." +
-                    "Integer volutpat scelerisque nisi. Nulla facilisi. ",
-                    Image = "product-5.png",
-                    Price = 550.00M,
-                    Category = "Smartphone",
+                    Name = "Huawei P30",
+                    Description = "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+                    Image = "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+                    Price = 499.00M,
+                    Category = "smartphones",
                 }
             };
         }
